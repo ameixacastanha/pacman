@@ -2,15 +2,38 @@ body
 {background-image: linear-gradient(black,purple);}
 
 h1 
-{color:purple;
+{color:rgb(150, 3, 150);
 font-size: 300%;
 text-align: center;}
 
-#ima1 
+h2
+{color:rgb(248, 60, 60);
+font-size: 200%;
+text-align: center;}
+
+#ima1
 {width: 70%;
 margin-left: 15%;}
 
-h3
-{color:rgb(255, 255, 255);
-font-size: 200%;
-text-align: center;}
+.fantasmas
+{color:white;}
+
+#fantasmas.intro
+{width: 50%;
+margin-left: 20%;}
+
+#fantasma.vermelho
+{width: 50%;
+margin-left: 20%;}
+
+#fantasma.azul
+{width: 50%;
+margin-left: 20%;}
+
+#fantasma.rosa
+{width: 50%;
+margin-left: 20%;}
+
+#fantasma.laranja
+{width: 50%;
+margin-left: 20%;}
