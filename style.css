@@ -1,0 +1,16 @@
+body 
+{background-image: linear-gradient(black,purple);}
+
+h1 
+{color:purple;
+font-size: 300%;
+text-align: center;}
+
+#ima1 
+{width: 70%;
+margin-left: 15%;}
+
+h3
+{color:rgb(255, 255, 255);
+font-size: 200%;
+text-align: center;}
